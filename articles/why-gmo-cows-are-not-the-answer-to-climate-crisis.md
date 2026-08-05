@@ -4,7 +4,7 @@ date: 2019-07-11
 tag: Research
 description: Why GMO cows are not answer to the climate crisis due to emissions from livestock.
 slug: why-gmo-cows-are-not-the-answer-to-climate-crisis
-cover_image: https://cownomics.com/wp-content/uploads/2021/01/80e16-sikkim-xs-2018-25.jpg
+cover_image: images/80e16-sikkim-xs-2018-25.jpg
 cover_alt: GMO cows are NOT the answer to Climate Crisis
 ---
 
@@ -38,7 +38,7 @@ Beef production alone is a big liability on the environment, as it takes up a mi
 
 This approach does nothing to check the growing, irrational demand for animal products and meat, which is the cause that has led to the current disaster.
 
-> "By 2050 the global demand for animal products is projected to increase by 60% to 70%, and developing countries will have a lion's share in this increase…. Furthermore, globally, the production, processing and transport of feed account for 45% of the greenhouse gas emissions from the livestock sector."
+> *"By 2050 the global demand for animal products is projected to increase by 60% to 70%, and developing countries will have a lion's share in this increase…. Furthermore, globally, the production, processing and transport of feed account for 45% of the greenhouse gas emissions from the livestock sector."*
 > — Review: Feed demand landscape and implications of food-not feed strategy for food security and climate change
 
 ## A Shift in Diet & Consciousness of Food Is The Only Way
