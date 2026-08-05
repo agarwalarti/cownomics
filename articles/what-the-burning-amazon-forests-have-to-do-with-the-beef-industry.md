@@ -4,7 +4,7 @@ date: 2019-08-26
 tag: Research
 description: So much destruction, death, and disease, unleashed on the planet simply because humans cannot drop their irrational infatuation with beef.
 slug: what-the-burning-amazon-forests-have-to-do-with-the-beef-industry
-cover_image: https://cownomics.com/wp-content/uploads/2021/01/ca0ce-brazilfires_amo_2019223_lrg-xs.jpg
+cover_image: images/ca0ce-brazilfires_amo_2019223_lrg-xs.jpg
 cover_alt: Brazil - Burning Amazon rain forests by NASA
 ---
 
