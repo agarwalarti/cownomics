@@ -24,7 +24,6 @@ a:hover { color: var(--orange); }
 /* Header */
 .site-header {
   background: var(--ash);
-  border-bottom: 1px solid var(--ash-line);
 }
 .header-inner {
   max-width: 1080px;
@@ -94,7 +93,7 @@ a:hover { color: var(--orange); }
   color: var(--brown);
 }
 .hero-sub {
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: "Rubik", "Helvetica Neue", Arial, sans-serif;
   color: #4a4741;
   font-size: 1rem;
   max-width: 40ch;
