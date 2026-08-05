@@ -23,6 +23,7 @@ a:hover { color: var(--orange); }
 
 /* Header */
 .site-header {
+  background: var(--ash);
   border-bottom: 1px solid var(--ash-line);
 }
 .header-inner {
@@ -36,16 +37,17 @@ a:hover { color: var(--orange); }
   gap: 12px;
 }
 .logo {
-  font-family: "Helvetica Neue", Arial, sans-serif;
-  font-weight: 700;
-  font-size: 1.3rem;
-  letter-spacing: 0.02em;
+  font-family: "Montserrat", Arial, sans-serif;
+  font-weight: 800;
+  font-size: 1.25rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
   color: var(--black);
 }
 .main-nav {
   display: flex;
   gap: 28px;
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: "Figtree", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.92rem;
 }
 .main-nav a { color: var(--black); }
@@ -76,7 +78,7 @@ a:hover { color: var(--orange); }
   padding: 56px 64px;
 }
 .eyebrow {
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: "Rubik", "Helvetica Neue", Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.14em;
   font-size: 0.78rem;
@@ -84,6 +86,8 @@ a:hover { color: var(--orange); }
   margin: 0 0 14px;
 }
 .hero-text h1 {
+  font-family: "Figtree", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 700;
   font-size: 2.4rem;
   line-height: 1.2;
   margin: 0 0 20px;
@@ -121,7 +125,8 @@ a:hover { color: var(--orange); }
 }
 .articles { padding: 40px 0 80px; }
 .articles h2 {
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: "Figtree", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-size: 0.85rem;
@@ -143,7 +148,7 @@ a:hover { color: var(--orange); }
   border-bottom: 1px solid var(--ash-line);
 }
 .article-date {
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: "Rubik", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.82rem;
   color: #8a8680;
   width: 88px;
@@ -151,12 +156,14 @@ a:hover { color: var(--orange); }
 }
 .article-title {
   flex: 1;
+  font-family: "Figtree", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 500;
   font-size: 1.05rem;
   color: var(--brown);
 }
 .article-title:hover { color: var(--orange); }
 .article-tag {
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: "Rubik", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -177,12 +184,16 @@ a:hover { color: var(--orange); }
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 .footer-brand {
-  font-weight: 700;
-  font-size: 1.1rem;
+  font-family: "Montserrat", Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 800;
+  font-size: 1.05rem;
   margin: 0 0 4px;
   color: var(--black);
 }
 .footer-tagline {
+  font-family: "Rubik", "Helvetica Neue", Arial, sans-serif;
   color: #6b6860;
   font-size: 0.9rem;
   margin: 0 0 20px;
