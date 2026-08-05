@@ -290,3 +290,57 @@ a:hover { color: var(--orange); }
 .article .btn {
   margin: 12px 0 8px;
 }
+
+/* Buy page */
+.buy-container {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 56px 32px 80px;
+}
+.buy-headline {
+  font-family: "Figtree", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 700;
+  font-size: 2.1rem;
+  color: var(--brown);
+  margin: 0 0 28px;
+}
+.buy-banner {
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+  margin-bottom: 32px;
+  display: block;
+  background: var(--ash);
+}
+.buy-intro {
+  font-size: 1.08rem;
+  color: var(--black);
+  margin: 0 0 40px;
+}
+.buy-group {
+  margin-bottom: 36px;
+  padding-top: 24px;
+  border-top: 1px solid var(--ash-line);
+}
+.buy-group h2 {
+  font-family: "Figtree", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  font-size: 1.15rem;
+  color: var(--brown);
+  margin: 0 0 16px;
+}
+.buy-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.buy-links .btn {
+  margin: 0;
+}
+.buy-byline {
+  font-family: "Rubik", "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.88rem;
+  color: #6b6860;
+  margin: 32px 0 8px;
+}
+.buy-byline a { color: var(--brown); }
