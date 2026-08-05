@@ -35,7 +35,7 @@ According to the Yale School of Forestry and Environmental Studies:
 > "Approximately 450,000 square kilometers of deforested Amazon in Brazil are now in cattle pasture."
 > — [Cattle Ranching in the Amazon Region](https://globalforestatlas.yale.edu/amazon/land-use/cattle-ranching)
 
-![Causes of Deforestation in Brazilian Amazon](https://cownomics.com/wp-content/uploads/2021/01/ae4a9-deforestation-in-the-amazon.jpg)
+![Causes of Deforestation in Brazilian Amazon](images/ae4a9-deforestation-in-the-amazon.jpg)
 *Image via [Mongabay](https://rainforests.mongabay.com/amazon/charts.html)*
 
 In the pasture land cleared up from deforestation, pastoral land is 10 times the amount of land used for growing grains.
