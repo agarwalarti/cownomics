@@ -4,7 +4,7 @@ date: 2025-01-05
 tag: Research
 description: Leather is considered a luxury item. But it comes at a steep environmental and human cost.
 slug: leather-the-bane-of-fashion
-cover_image: https://cownomics.com/wp-content/uploads/2025/01/pexels-technobulka-2977304.jpg
+cover_image: images/pexels-technobulka-2977304.jpg
 cover_alt: Brown leather handbag
 ---
 
