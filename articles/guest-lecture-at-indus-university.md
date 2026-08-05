@@ -4,7 +4,7 @@ date: 2021-06-30
 tag: Video
 description: Video and handout from Guest Lecture at Indus University, Center for Indic Studies.
 slug: guest-lecture-at-indus-university
-cover_image: https://cownomics.com/wp-content/uploads/2021/06/cownomics-arti-agarwal-handout.jpg
+cover_image: images/cownomics-arti-agarwal-handout.jpg
 cover_alt: Guest lecture handout cover slide
 ---
 
