@@ -4,7 +4,7 @@ date: 2022-12-12
 tag: News
 description: Asia's largest CBG plant has been inaugurated in Sangrur, Punjab. It can produce 33 TPD of CBG and 600-650 TPS of Farmland Manure.
 slug: asias-largest-compressed-biogas-plant-inaugurated-in-india
-cover_image: https://cownomics.com/wp-content/uploads/2022/12/cbg-punjab-2.jpeg
+cover_image: images/cbg-punjab-2.jpeg
 cover_alt: CBG plant in Punjab
 ---
 
