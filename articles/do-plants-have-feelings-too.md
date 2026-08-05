@@ -4,7 +4,7 @@ date: 2021-07-24
 tag: Op-Ed
 description: Do plants have feelings like animals?
 slug: do-plants-have-feelings-too
-cover_image: https://cownomics.com/wp-content/uploads/2021/04/pexels-leah-kelley-2090641.jpg
+cover_image: images/pexels-leah-kelley-2090641.jpg
 cover_alt: Close-up photo of Swiss cheese plant
 ---
 
@@ -22,7 +22,7 @@ Think about it. When your house is on fire, would you save your cat or a potted 
 
 In this picture, would you pet and swoon over the grass or the kittens? Human beings already know, understand and realize that animals are far more evolved than plants. But they somehow want to be reminded and re-reminded of it every time they want to justify the cruelty given to animals for empty reasons.
 
-![Assorted color kittens](https://cownomics.com/wp-content/uploads/2021/07/pexels-pixabay-45170.jpg?w=1024)
+![Assorted color kittens](images/pexels-pixabay-45170.jpg?w=1024)
 *Photo by [Pixabay](https://www.pexels.com/@pixabay?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/assorted-color-kittens-45170/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)*
 
 The most unfortunate part is that the "plants have feelings too" argument is used not to protect plants, but to defend consumption of meat. Most people who fling around this argument do not care about plants either. It's just a strawman argument to defend cruelty. If this argument was used to save forests, and wildlife flora one could at least begin to understand the concern. But that is not so. Most animal-eaters are also plant-eaters. Their argument is not that we should stop cruelty on plants, but that we should continue cruelty on animals. They apply different rules to themselves and others. They would not want to stop cruelty on anyone. But they would want vegetarians and vegans to stop eating plants as well.
