@@ -4,7 +4,7 @@ date: 2022-12-15
 tag: News
 description: A national carbon trading market in India and ban on export of carbon credits may be just what Biogas-based energy projects need to get a new lease of life.
 slug: carbon-credits-and-biogas
-cover_image: https://cownomics.com/wp-content/uploads/2022/12/biogas-2919235_1280.jpg
+cover_image: images/biogas-2919235_1280.jpg
 cover_alt: Biogas digester tanks
 ---
 
