@@ -4,7 +4,7 @@ date: 2021-03-28
 tag: Op-Ed
 description: Terms like "cash cow" promote beef as a good thing and the cow as an object.
 slug: why-terms-like-cash-cow-are-a-problem
-cover_image: https://cownomics.com/wp-content/uploads/2021/03/animal-blur-ceramic-164627.jpg
+cover_image: images/animal-blur-ceramic-164627.jpg
 cover_alt: Ceramic cow figurine
 ---
 
