@@ -222,11 +222,16 @@ a:hover { color: var(--orange); }
   .article-tag { order: 2; }
   .article-title { order: 1; flex-basis: 100%; }
   .article-headline { font-size: 1.7rem; }
+  .article-body img {
+    width: 100%;
+    margin-left: 0;
+    max-width: 100%;
+  }
 }
 
 /* Article page */
 .article-container {
-  max-width: 680px;
+  max-width: 760px;
   margin: 0 auto;
   padding: 56px 32px 80px;
 }
@@ -266,6 +271,16 @@ a:hover { color: var(--orange); }
 }
 .article-body p {
   margin: 0 0 22px;
+}
+.article-body img {
+  max-width: min(94vw, 1200px);
+  width: calc(100% + 240px);
+  margin-left: -120px;
+  height: auto;
+  border-radius: 3px;
+  display: block;
+  margin-top: 28px;
+  margin-bottom: 28px;
 }
 .article-body a {
   text-decoration: underline;
