@@ -4,7 +4,7 @@ date: 2021-02-26
 tag: Op-Ed
 description: When it comes to the new Farm Laws in India, the west has spiralled out of control into spinning its own version of the reality of agriculture in India.
 slug: american-wokes-are-in-no-position-to-lecture-india-on-farming
-cover_image: https://cownomics.com/wp-content/uploads/2021/02/hope-3467922_1920.jpg
+cover_image: images/hope-3467922_1920.jpg
 cover_alt: Indian farmland
 ---
 
